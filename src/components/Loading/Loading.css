@@ -1,0 +1,16 @@
+.loader{
+ font-size: 2rem;
+ margin: 200px auto 0;
+ width: 100%;
+ animation: Loader infinite 1s linear;
+}
+
+
+
+@keyframes Loader {
+  from{
+    transform: rotate(0deg);
+  }to{
+    transform: rotate(360deg);
+  }
+}
