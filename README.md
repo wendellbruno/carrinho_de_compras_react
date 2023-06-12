@@ -8,3 +8,7 @@ Tecnologias utilizadas
 React JS,
 Hooks,
 API do Mercado Livre.
+
+
+https://github.com/wendellbruno/carrinho_de_compras_react/assets/79750052/490044f0-23ae-4864-9860-2b338512eca4
+
